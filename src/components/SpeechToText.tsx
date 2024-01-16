@@ -75,7 +75,6 @@ const SpeechToText = () => {
             />
           </button>
           <button onClick={resetTranscript}>
-            {" "}
             <XCircleIcon className="w-6 h-6" />{" "}
           </button>
         </div>
